@@ -1,4 +1,2 @@
-# git-essentials
-
-## deployment notes
-## staging notes
+# some new stuffs over here
+# staging notes
