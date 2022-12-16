@@ -1,3 +1,3 @@
 # Git Essentials /git fro everybody
 
-# this is a course created by vaishak
+# to say something else master branch
